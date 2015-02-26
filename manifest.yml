@@ -6,6 +6,6 @@ declared-services:
 applications:
 - services:
   - personality-insights-service
-  name: personality-insights-java
+  name: personality-insights-java-gt
   path: output/webApp.war
   memory: 512M
